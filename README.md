@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Expansión Volumétrica en Ritmo Simétrico
 
 ![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
 
