@@ -1,0 +1,4 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Arduino Uno R3"
+"PING1",1," Sensor de distancia ultrasónico"
+"RINGAdafruit_NeoPixel, RING2",2," Anillo de 24 NeoPixels"
