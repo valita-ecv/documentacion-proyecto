@@ -22,6 +22,6 @@ En este `README.md` principal debes incorporar:
 - Declarar herramientas y tecnologías utilizadas
 
 ### Estructura de las Carpetas ### 
-- [Carpeta CAD] (https://github.com/valita-ecv/documentacion-proyecto/tree/main/cad) Modelos o dibujos 
-- [Carpeta CAM] (https://github.com/valita-ecv/documentacion-proyecto/tree/main/cam) Archivos de Fabricación 
-- [Carpeta INO] (https://github.com/valita-ecv/documentacion-proyecto/tree/main/ino) Archivos de Programación 
+- [Carpeta CAD](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cad) Modelos o dibujos 
+- [Carpeta CAM](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cam) Archivos de Fabricación 
+- [Carpeta INO](https://github.com/valita-ecv/documentacion-proyecto/tree/main/ino) Archivos de Programación 
