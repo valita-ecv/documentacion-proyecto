@@ -18,6 +18,7 @@ las partes y sus volúmenes. Esta acción se da en un ritmo acotado y simétrico
 - [Carpeta CAD](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cad) Modelos o dibujos 
 - [Carpeta CAM](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cam) Archivos de Fabricación 
 - [Carpeta INO](https://github.com/valita-ecv/documentacion-proyecto/tree/main/ino) Archivos de Programación 
+- [Carpeta de Registro Visual](https://github.com/valita-ecv/documentacion-proyecto/tree/main/Photo) Fotografías y Videos
 
 ### Herramientas y Tecnologías ### 
 - 4 Junquillos de Madera de 2x2x200 
