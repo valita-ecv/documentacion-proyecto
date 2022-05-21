@@ -21,5 +21,7 @@ En este `README.md` principal debes incorporar:
 - Describir la estructura de carpetas
 - Declarar herramientas y tecnologías utilizadas
 
-El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
-![totemenisometricaMCPFTDI-01](https://user-images.githubusercontent.com/104577571/169634536-67d3fd0a-01a9-477b-ad85-793159cbf35b.jpg)
+### Estructura de las Carpetas ### 
+- [Carpeta CAD] (https://github.com/valita-ecv/documentacion-proyecto/tree/main/cad) Modelos o dibujos 
+- [Carpeta CAM] (https://github.com/valita-ecv/documentacion-proyecto/tree/main/cam) Archivos de Fabricación 
+- [Carpeta INO] (https://github.com/valita-ecv/documentacion-proyecto/tree/main/ino) Archivos de Programación 
