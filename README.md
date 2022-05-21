@@ -1,6 +1,6 @@
 # Expansión Volumétrica en Ritmo Simétrico
 
-![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
+![Foto Representativa del Proyecto]([picsum.photos/400/300?grayscale](https://wiki.ead.pucv.cl/Archivo:TOTEM_VC.png))
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
