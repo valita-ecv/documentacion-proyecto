@@ -14,13 +14,6 @@ las partes y sus volúmenes. Esta acción se da en un ritmo acotado y simétrico
 
 ![totemenisometricaMCPFTDI-01](https://user-images.githubusercontent.com/104577571/169634536-67d3fd0a-01a9-477b-ad85-793159cbf35b.jpg) 
 
-En este `README.md` principal debes incorporar:
-- La descripción general del proyecto
-- Declarar autores, colaboradores y otras circunstancias relevantes
-- Imágenes significativas
-- Describir la estructura de carpetas
-- Declarar herramientas y tecnologías utilizadas
-
 ### Estructura de las Carpetas ### 
 - [Carpeta CAD](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cad) Modelos o dibujos 
 - [Carpeta CAM](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cam) Archivos de Fabricación 
