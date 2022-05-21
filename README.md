@@ -25,3 +25,20 @@ En este `README.md` principal debes incorporar:
 - [Carpeta CAD](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cad) Modelos o dibujos 
 - [Carpeta CAM](https://github.com/valita-ecv/documentacion-proyecto/tree/main/cam) Archivos de Fabricación 
 - [Carpeta INO](https://github.com/valita-ecv/documentacion-proyecto/tree/main/ino) Archivos de Programación 
+
+### Herramientas y Tecnologías ### 
+- 4 Junquillos de Madera de 2x2x200 
+- Alambre tensado de 18mm 
+- Papel bond 180gm 
+- Papel Diamante 
+- Papel Celofán, Amarillo / Azul / Rojo 
+- Puntas 
+- Planchas de MDF de 3mm 
+- 2 Led NeoPixel de 24 pixeles 
+- Arduino UNO 
+- Cables de Conección 
+- Cinta aislante 
+- Sensor de Movimiento Ultrasónico 
+- Arcilla 
+- Papel Aluminio 
+- Pintura Blanca y Negra 
